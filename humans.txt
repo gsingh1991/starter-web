@@ -8,7 +8,7 @@
 # THANKS
 
     <name>
-
+###adding important notes on git stash
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
